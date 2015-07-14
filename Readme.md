@@ -7,3 +7,4 @@
  * nano .gitignore
  * git add --all
  * git commit -m
+ 
